@@ -278,3 +278,10 @@ Note: Free trial doesn't have the organizations.
 - [ ] Configure and launch the WordPress HA deployment template from the WordPress Marketplace.
 - [x] Create, configure, and launch a WordPress HA deployment template on Compute Engine.
 - [ ] Create, configure, and launch a WordPress HA deployment template on Google Kubernetes Engine.
+
+#### Q40. To be able to decrypt files that were encrypted with a customer-managed key, what conditions must be met?
+
+- [x] Specify the decryption key with the same name as the encryption key. At least one version of a key with that name must be enabled.
+- [ ] Specify a decryption key and version with the same name as the encryption key and version. The named key and that version must be enabled.
+- [ ] Specify the decryption key with the same name as the encryption key. The named key and that version must be enabled.
+- [ ] Specify a decryption key and version with the same name as the encryption key and version. At least one version of a key with that name must be enabled.
